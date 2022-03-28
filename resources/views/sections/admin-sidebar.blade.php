@@ -6,14 +6,14 @@
     </div>
     <ul class="nav">
       <li class="nav-item nav-category">
-        <span class="nav-link">Navigation</span>
+        <span class="nav-link">NAVIGATION</span>
       </li>
       <li class="nav-item menu-items">
         <a class="nav-link" href="{{ route('admin') }}">
           <span class="menu-icon">
             <i class="mdi mdi-speedometer"></i>
           </span>
-          <span class="menu-title">Dashboard</span>
+          <span class="menu-title">DASHBOARD</span>
         </a>
       </li>
       <li class="nav-item menu-items">
@@ -21,7 +21,7 @@
           <span class="menu-icon">
             <i class="mdi mdi-laptop"></i>
           </span>
-          <span class="menu-title">All Users</span>
+          <span class="menu-title">ALL USERS</span>
         </a>
       </li>
       <li class="nav-item menu-items">
@@ -29,7 +29,7 @@
           <span class="menu-icon">
             <i class="mdi mdi-playlist-play"></i>
           </span>
-          <span class="menu-title">All Orders</span>
+          <span class="menu-title">ORDERS</span>
         </a>
       </li>
       <li class="nav-item menu-items">
@@ -37,7 +37,7 @@
           <span class="menu-icon">
             <i class="mdi mdi-table-large"></i>
           </span>
-          <span class="menu-title">All Reservations</span>
+          <span class="menu-title">RESERVATIONS</span>
         </a>
       </li>
       <li class="nav-item menu-items">
@@ -45,7 +45,7 @@
           <span class="menu-icon">
             <i class="mdi mdi-chart-bar"></i>
           </span>
-          <span class="menu-title">All Foods</span>
+          <span class="menu-title">FOODS</span>
         </a>
       </li>
       <li class="nav-item menu-items">
@@ -53,7 +53,7 @@
           <span class="menu-icon">
             <i class="mdi mdi-contacts"></i>
           </span>
-          <span class="menu-title">All Chefs</span>
+          <span class="menu-title">CHEFS</span>
         </a>
       </li>
     </ul>

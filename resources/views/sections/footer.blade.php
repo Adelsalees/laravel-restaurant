@@ -12,6 +12,5 @@
     </div>
     <div class="footer-copyright">
         <p>© copyright Chops & Hops Design ADEL SALEES</p>
-
     </div>
 </div>

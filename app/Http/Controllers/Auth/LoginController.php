@@ -18,7 +18,7 @@ class LoginController extends Controller
     {
         $request->validate([
             "email"=>"required",
-            "password"=>"required"
+            "password"=>"required | min:5"
         ]);
 
         $fieldType = filter_var($request->email, FILTER_VALIDATE_EMAIL) ? 'email' : 'phone';
